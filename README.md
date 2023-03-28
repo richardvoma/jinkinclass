@@ -1,2 +1,2 @@
-# jinkenclass
-lerarningrepo
+# jenkinclass
+lerarning repo
