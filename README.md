@@ -1,2 +1,2 @@
-# jinkinclass
+# jinkenclass
 lerarningrepo
